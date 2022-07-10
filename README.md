@@ -12,3 +12,5 @@ You could get the files like below set if u are running this code.
 
 # pt_para_extractor
 Parameter-Extractor with 'pt' file
+
+* Caution : there's a bug... it need to be modified about 'comma' position
